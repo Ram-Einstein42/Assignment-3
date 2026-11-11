@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/joyboy/CS2-Assignment 3/Assignment-3/main'
+relocations:     []
+...
